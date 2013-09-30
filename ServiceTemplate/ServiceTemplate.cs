@@ -4,7 +4,7 @@ using System.ServiceModel;
 namespace ServiceTemplate
 {
     public abstract class ServiceTemplate<TService, TInterface>
-        where TService : System.ServiceModel.ClientBase<TInterface>
+        where TService : ClientBase<TInterface>
         where TInterface : class
     {
         private TService Service

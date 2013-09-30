@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTemplate", "ServiceTemplate\ServiceTemplate.csproj", "{7927FBB4-F40B-490D-AE96-F776BEC80A11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfHelpers", "WcfHelpers\WcfHelpers.csproj", "{8C05C6C9-2442-4FA9-AFD6-BCF57CE57AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{7927FBB4-F40B-490D-AE96-F776BEC80A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7927FBB4-F40B-490D-AE96-F776BEC80A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7927FBB4-F40B-490D-AE96-F776BEC80A11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C05C6C9-2442-4FA9-AFD6-BCF57CE57AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C05C6C9-2442-4FA9-AFD6-BCF57CE57AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C05C6C9-2442-4FA9-AFD6-BCF57CE57AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C05C6C9-2442-4FA9-AFD6-BCF57CE57AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

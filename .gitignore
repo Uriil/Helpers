@@ -1,3 +1,6 @@
 /ServiceTemplate/bin
 /ServiceTemplate/obj
 NgHelpers.v11.suo
+/WcfHelpers/bin/Release
+/WcfHelpers/obj
+*.user
